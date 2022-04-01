@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-CMD echo "Hello Rasheeda ,This is a good girl."
+CMD echo "Hello Rasheeda ,Welcome to our College."
